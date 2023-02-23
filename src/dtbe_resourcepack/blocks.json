@@ -1,0 +1,29 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "dtbe:cheeseblock": {
+    "textures": {
+      "up": "dtbe_cheeseblock_up",
+      "down": "dtbe_cheeseblock_down",
+      "south": "dtbe_cheeseblock_south",
+      "north": "dtbe_cheeseblock_north",
+      "west": "dtbe_cheeseblock_west",
+      "east": "dtbe_cheeseblock_east"
+    },
+    "sound": "slime"
+  },
+  "dtbe:chocolateblock": {
+    "textures": {
+      "up": "dtbe_chocolateblock_up",
+      "down": "dtbe_chocolateblock_down",
+      "south": "dtbe_chocolateblock_south",
+      "north": "dtbe_chocolateblock_north",
+      "west": "dtbe_chocolateblock_west",
+      "east": "dtbe_chocolateblock_east"
+    },
+    "sound": "stone"
+  }
+}
