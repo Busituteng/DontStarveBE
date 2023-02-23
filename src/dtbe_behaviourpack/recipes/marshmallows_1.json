@@ -1,0 +1,40 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "dtbe:marshmallows_1"
+    },
+    "groups": [
+      "dtbe"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " 12",
+      " 45",
+      "6  "
+    ],
+    "key": {
+      "1": {
+        "item": "minecraft:sugar"
+      },
+      "2": {
+        "item": "minecraft:sugar"
+      },
+      "4": {
+        "item": "minecraft:sugar"
+      },
+      "5": {
+        "item": "minecraft:sugar"
+      },
+      "6": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "dtbe:marshmallows",
+      "count": 1
+    }
+  }
+}

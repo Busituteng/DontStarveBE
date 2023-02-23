@@ -1,0 +1,21 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "dtbe:burntwool_1"
+    },
+    "groups": [
+      "dtbe"
+    ],
+    "tags": [
+      "furnace"
+    ],
+    "input": {
+      "item": "minecraft:wool",
+      "data": 0
+    },
+    "output": {
+      "item": "dtbe:burntwool"
+    }
+  }
+}

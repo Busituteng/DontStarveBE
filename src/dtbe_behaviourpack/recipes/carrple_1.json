@@ -1,0 +1,32 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "dtbe:carrple_1"
+    },
+    "groups": [
+      "dtbe"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:carrot"
+      },
+      {
+        "item": "minecraft:apple"
+      },
+      {
+        "item": "minecraft:apple"
+      },
+      {
+        "item": "minecraft:carrot"
+      }
+    ],
+    "result": {
+      "item": "dtbe:carrple",
+      "count": 2
+    }
+  }
+}

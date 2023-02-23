@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "dtbe:soakrottenflesh_1"
+    },
+    "groups": [
+      "dtbe"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:rotten_flesh"
+      },
+      {
+        "item": "minecraft:bucket",
+        "data": 8
+      }
+    ],
+    "result": {
+      "item": "dtbe:soakrottenflesh",
+      "count": 1
+    }
+  }
+}

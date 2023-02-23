@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "dtbe:papercup_2"
+    },
+    "groups": [
+      "dtbe"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "0 2",
+      " 4 "
+    ],
+    "key": {
+      "0": {
+        "item": "minecraft:paper"
+      },
+      "2": {
+        "item": "minecraft:paper"
+      },
+      "4": {
+        "item": "minecraft:paper"
+      }
+    },
+    "result": {
+      "item": "dtbe:papercup",
+      "count": 2
+    }
+  }
+}
