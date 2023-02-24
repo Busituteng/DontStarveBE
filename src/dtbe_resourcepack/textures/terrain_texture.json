@@ -1,0 +1,68 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 0,
+  "texture_data": {
+    "dtbe_cheeseblock_up": {
+      "textures": [
+        "textures/blocks/cheese_block"
+      ]
+    },
+    "dtbe_cheeseblock_down": {
+      "textures": [
+        "textures/blocks/cheese_block"
+      ]
+    },
+    "dtbe_cheeseblock_south": {
+      "textures": [
+        "textures/blocks/cheese_block"
+      ]
+    },
+    "dtbe_cheeseblock_north": {
+      "textures": [
+        "textures/blocks/cheese_block"
+      ]
+    },
+    "dtbe_cheeseblock_west": {
+      "textures": [
+        "textures/blocks/cheese_block"
+      ]
+    },
+    "dtbe_cheeseblock_east": {
+      "textures": [
+        "textures/blocks/cheese_block"
+      ]
+    },
+    "dtbe_chocolateblock_up": {
+      "textures": [
+        "textures/blocks/chocolate_block"
+      ]
+    },
+    "dtbe_chocolateblock_down": {
+      "textures": [
+        "textures/blocks/chocolate_block"
+      ]
+    },
+    "dtbe_chocolateblock_south": {
+      "textures": [
+        "textures/blocks/chocolate_block"
+      ]
+    },
+    "dtbe_chocolateblock_north": {
+      "textures": [
+        "textures/blocks/chocolate_block"
+      ]
+    },
+    "dtbe_chocolateblock_west": {
+      "textures": [
+        "textures/blocks/chocolate_block"
+      ]
+    },
+    "dtbe_chocolateblock_east": {
+      "textures": [
+        "textures/blocks/chocolate_block"
+      ]
+    }
+  }
+}

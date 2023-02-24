@@ -1,0 +1,132 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "carrple": {
+      "textures": "textures/items/carrple"
+    },
+    "glowstonemilkshake": {
+      "textures": "textures/items/glowstone_milk_shake"
+    },
+    "burntwool": {
+      "textures": "textures/items/burnt_wool"
+    },
+    "marshmallows": {
+      "textures": "textures/items/marshmallows"
+    },
+    "roastgunpowder": {
+      "textures": "textures/items/roast_gunpowder"
+    },
+    "cheese": {
+      "textures": "textures/items/cheese"
+    },
+    "soakghasttear": {
+      "textures": "textures/items/soak_ghast_tear"
+    },
+    "roastbone": {
+      "textures": "textures/items/roast_bone"
+    },
+    "papercup": {
+      "textures": "textures/items/paper_cup"
+    },
+    "cactusmeat": {
+      "textures": "textures/items/cactus_meat"
+    },
+    "cookednetherwart": {
+      "textures": "textures/items/cooked_nether_wart"
+    },
+    "soakbone": {
+      "textures": "textures/items/soak_bone"
+    },
+    "roastspidereye": {
+      "textures": "textures/items/roast_spider_eye"
+    },
+    "roastrottenflesh": {
+      "textures": "textures/items/roast_rotten_flesh"
+    },
+    "roastreeds": {
+      "textures": "textures/items/roast_reeds"
+    },
+    "cookedwaterlily": {
+      "textures": "textures/items/cooked_lily_pad"
+    },
+    "cookedcactus": {
+      "textures": "textures/items/cooked_cactus"
+    },
+    "hotmilkbucket": {
+      "textures": "textures/items/hot_milk_bucket"
+    },
+    "roastvine": {
+      "textures": "textures/items/roast_vine"
+    },
+    "soakenderpearl": {
+      "textures": "textures/items/soak_ender_pearl"
+    },
+    "roastenderpearl": {
+      "textures": "textures/items/roast_ender_pearl"
+    },
+    "diamondknife": {
+      "textures": "textures/items/diamond_knife"
+    },
+    "slimefudge": {
+      "textures": "textures/items/slime_fudge"
+    },
+    "ironknife": {
+      "textures": "textures/items/iron_knife"
+    },
+    "roastredmushroom": {
+      "textures": "textures/items/roast_red_mushroom"
+    },
+    "leaf": {
+      "textures": "textures/items/leaves"
+    },
+    "popsicle": {
+      "textures": "textures/items/popsicle"
+    },
+    "roastmelonseed": {
+      "textures": "textures/items/roast_melon_seed"
+    },
+    "icecream": {
+      "textures": "textures/items/ice_cream"
+    },
+    "treebark": {
+      "textures": "textures/items/treebark"
+    },
+    "soakspidereye": {
+      "textures": "textures/items/soak_spider_eye"
+    },
+    "burntleather": {
+      "textures": "textures/items/burnt_leather"
+    },
+    "roastwheatseed": {
+      "textures": "textures/items/roast_wheat_seed"
+    },
+    "roastbrownmushroom": {
+      "textures": "textures/items/roast_brown_mushroom"
+    },
+    "magmacream": {
+      "textures": "textures/items/magma_cream_lollipop"
+    },
+    "roastpumpkinseed": {
+      "textures": "textures/items/roast_pumpkin_seed"
+    },
+    "cookedcarrot": {
+      "textures": "textures/items/cooked_carrot"
+    },
+    "soakgunpowder": {
+      "textures": "textures/items/soak_gunpowder"
+    },
+    "soakrottenflesh": {
+      "textures": "textures/items/soak_rotten_flesh"
+    },
+    "rostghasttear": {
+      "textures": "textures/items/roast_ghast_tear"
+    },
+    "chocolate": {
+      "textures": "textures/items/chocolate"
+    },
+    "cookedegg": {
+      "textures": "textures/items/cooked_egg"
+    }
+  }
+}
