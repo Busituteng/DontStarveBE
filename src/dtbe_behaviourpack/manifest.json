@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Don't Starve in Bedrock Edition!",
+    "name": "Don't Starve Bedrock Edition",
+    "uuid": "84b4f8dc-ffb2-3826-a5c0-3e02707839fd",
+    "version": [
+      0,
+      1,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Don't Starve in Bedrock Edition!",
+      "type": "data",
+      "uuid": "54caf392-563c-3214-bae0-ad5693762b8e",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "77d9a8c0-5749-3b0c-b126-1cbeaac641cd",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "BunnimimiTotem"
+    ],
+    "url": "https://github.com/Busituteng/DontStarveBE"
+  }
+}

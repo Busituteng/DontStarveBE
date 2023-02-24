@@ -1,0 +1,21 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "dtbe:hotmilkbucket_1"
+    },
+    "groups": [
+      "dtbe"
+    ],
+    "tags": [
+      "furnace"
+    ],
+    "input": {
+      "item": "minecraft:bucket",
+      "data": 1
+    },
+    "output": {
+      "item": "dtbe:hotmilkbucket"
+    }
+  }
+}

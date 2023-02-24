@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "dtbe:soakspidereye_1"
+    },
+    "groups": [
+      "dtbe"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:bucket",
+        "data": 8
+      },
+      {
+        "item": "minecraft:spider_eye"
+      }
+    ],
+    "result": {
+      "item": "dtbe:soakspidereye",
+      "count": 1
+    }
+  }
+}

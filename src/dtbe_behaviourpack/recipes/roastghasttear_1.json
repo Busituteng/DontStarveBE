@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "dtbe:roastghasttear_1"
+    },
+    "groups": [
+      "dtbe"
+    ],
+    "tags": [
+      "furnace"
+    ],
+    "input": {
+      "item": "dtbe:soakghasttear"
+    },
+    "output": {
+      "item": "dtbe:rostghasttear"
+    }
+  }
+}

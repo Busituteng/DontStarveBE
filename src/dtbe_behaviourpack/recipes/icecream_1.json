@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "dtbe:icecream_1"
+    },
+    "groups": [
+      "dtbe"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:snow"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "dtbe:papercup"
+      }
+    ],
+    "result": {
+      "item": "dtbe:icecream",
+      "count": 1
+    }
+  }
+}

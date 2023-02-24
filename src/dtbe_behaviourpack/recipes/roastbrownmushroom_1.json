@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "dtbe:roastbrownmushroom_1"
+    },
+    "groups": [
+      "dtbe"
+    ],
+    "tags": [
+      "furnace"
+    ],
+    "input": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "output": {
+      "item": "dtbe:roastbrownmushroom"
+    }
+  }
+}
